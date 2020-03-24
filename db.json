@@ -8,20 +8,15 @@
     },
     {
       "id": "43",
-      "firstName": "Khan",
-      "age": 42,
-      "companyId": "2"
+      "firstName": "Yahoo",
+      "age": 1,
+      "companyId": "1"
     },
     {
       "id": "53",
       "firstName": "Muzammil",
       "age": 52,
       "companyId": "2"
-    },
-    {
-      "firstName": "Muhammad Afzal",
-      "age": 22,
-      "id": "U_Glwjw"
     }
   ],
   "companies": [
